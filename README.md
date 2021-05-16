@@ -4,3 +4,5 @@ I'll update this extension until GNOME Shell 4x+ is ironed out.
 
 ![tweaks image](settings-screenshot.png)
 ![screenshot](screenshot.png)
+
+Screenshots feature AdwMod gtk theme and Newaita icon theme.
