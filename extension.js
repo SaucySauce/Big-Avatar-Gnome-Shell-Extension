@@ -116,7 +116,8 @@ function updateExtensionAppearence() {
               //Get user name and center it vertically
               var nameString = new St.Label ({
               	text: "  " + GLib.get_real_name(),
-              	y_align: Clutter.ActorAlign.CENTER
+              	y_align: Clutter.ActorAlign.CENTER,
+		x_align: Clutter.ActorAlign.Center      
               });
               avatar.update();
 
